@@ -1,5 +1,6 @@
 # Powershell-Misc
-Split arguments.
+
+argsplit.ps1 : Split string and assigned each of the characters to variable. Next it will joined all the variable.
 
 Usage :
 ```
